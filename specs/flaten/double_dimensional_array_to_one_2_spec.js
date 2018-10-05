@@ -12,4 +12,4 @@ describe('double_to_one', function() {
 
     expect(result).toEqual([1,2,3,5,4]);
   })
-});
+})
